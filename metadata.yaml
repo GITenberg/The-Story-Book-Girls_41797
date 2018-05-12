@@ -1,0 +1,27 @@
+_repo: The-Story-Book-Girls_41797
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41797-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Whyte, Christina Gowans
+    birthdate: 1869
+    deathdate: 1961
+    gutenberg_agent_id: '41371'
+    url: http://www.gutenberg.org/2009/agents/41371
+description: ''
+gutenberg_issued: '2013-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic fiction'
+- !lcc 'PZ'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+title: The Story Book Girls
+url: http://www.gutenberg.org/ebooks/41797
